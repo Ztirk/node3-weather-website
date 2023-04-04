@@ -1,0 +1,21 @@
+[debug] [2023-04-04T02:13:55.769Z] ----------------------------------------------------------------------
+[debug] [2023-04-04T02:13:55.771Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\krit1\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-04-04T02:13:55.771Z] CLI Version:   11.25.2
+[debug] [2023-04-04T02:13:55.771Z] Platform:      win32
+[debug] [2023-04-04T02:13:55.771Z] Node Version:  v18.14.0
+[debug] [2023-04-04T02:13:55.772Z] Time:          Tue Apr 04 2023 09:13:55 GMT+0700 (Indochina Time)
+[debug] [2023-04-04T02:13:55.772Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-04T02:13:55.778Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-04T02:13:55.778Z] > authorizing via signed-in user (krit15489@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\krit1\Desktop\vsc\udemy\nodejs-course\web-server
+
